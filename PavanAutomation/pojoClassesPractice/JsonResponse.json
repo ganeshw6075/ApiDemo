@@ -1,0 +1,51 @@
+{
+	"url" : "https://www.facebook.com/",
+	"service" : "TeamSupport",
+	"expertise" : "Automation",
+	"courses" : 
+	{
+        
+        "webAutomation" : 
+     [
+     
+        {  
+            "courseTitle" : "Java",
+            "price" : "75"
+        },
+
+        {  
+            "courseTitle" : "Cypress",
+            "price" : "100"
+        },
+
+        {  
+            "courseTitle" : "Selenium",
+            "price" : "60"
+        }
+
+     ],
+
+         "Api" : [
+     
+        {  
+            "courseTitle" : "Api using postman tool",
+            "price" : "50"
+        },
+
+        {  
+            "courseTitle" : "Api Automation using Restassured tool",
+            "price" : "120"
+        }
+        ],
+
+         "mobile" : 
+     
+        {  
+            "courseTitle" : "mobile Automation using Appium tool",
+            "price" : "80"
+        }
+         
+	}
+
+
+}
